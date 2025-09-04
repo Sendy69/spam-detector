@@ -1,2 +1,3 @@
 # spam-detector
-Detection de spams
+
+Ce projet a pour but de détecter les emails spams. 
